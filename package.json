@@ -1,0 +1,19 @@
+{
+  "name": "fullstack-vue",
+  "description": "A fullstack vue.js web application.",
+  "version": "0.0.0",
+  "private": true,
+  "author": "Cody Wilson",
+  "homepage": "",
+  "contributors": [ "Cody Wilson <cody.wilson9495@gmail.com> (https://github.com/cwilsonn)" ],
+  "bugs": { "url": "" },
+  "scripts": {},
+  "dependencies": {},
+  "devDependencies": {},
+  "keywords": [],
+  "repository": "",
+  "licenses": [{
+    "type": "MIT",
+    "url": "http://opensource.org/licenses/MIT"
+  }]
+}
